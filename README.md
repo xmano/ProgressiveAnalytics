@@ -14,5 +14,5 @@ Collection of all information related to the research topic
 
 
 ## Datasets
-Frequent Itemset Mining Dataset Repository
+Frequent Itemset Mining Dataset Repository<br>
 http://fimi.ua.ac.be/data/
